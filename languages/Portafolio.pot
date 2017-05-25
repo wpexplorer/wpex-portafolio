@@ -1,0 +1,345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Portafolio WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-26 13:20-0700\n"
+"PO-Revision-Date: 2015-11-11 15:11-0800\n"
+"Last-Translator: Authentic <support@authenticthemes.com>\n"
+"Language-Team: WPExplorer\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "404: Page Not Found"
+msgstr ""
+
+#: ../404.php:25
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../404.php:25
+msgid "homepage"
+msgstr ""
+
+#: ../archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../author.php:21
+msgid "Articles Written By"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content.php:24 ../content.php:56
+msgid "On"
+msgstr ""
+
+#: ../content.php:25 ../content.php:57
+msgid "By"
+msgstr ""
+
+#: ../content.php:27 ../content.php:59
+msgid "With"
+msgstr ""
+
+#: ../content.php:27 ../content.php:59
+msgid "0 Comments"
+msgstr ""
+
+#: ../content.php:27 ../content.php:59
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:27 ../content.php:59
+msgid "% Comments"
+msgstr ""
+
+#: ../content.php:74
+msgid "Continue Reading"
+msgstr ""
+
+#: ../inc/about.php:53 ../inc/about.php:54
+msgid "Theme"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:55
+msgid "Image Gallery"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:81
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:137
+msgid "Remove image"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:91
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:96
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:118
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:120
+msgid "Add to gallery"
+msgstr ""
+
+#: ../inc/comments-callback.php:31
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/comments-callback.php:31 ../inc/comments-callback.php:56
+msgid "Edit"
+msgstr ""
+
+#: ../inc/comments-callback.php:61
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/comments-callback.php:69
+msgid "reply to comment"
+msgstr ""
+
+#: ../inc/customizer/image-sizes.php:7
+msgid "Image Sizes"
+msgstr ""
+
+#: ../inc/customizer/image-sizes.php:39
+msgid "Width"
+msgstr ""
+
+#: ../inc/customizer/image-sizes.php:52
+msgid "Height"
+msgstr ""
+
+#: ../inc/customizer/image-sizes.php:66
+msgid "Crop"
+msgstr ""
+
+#: ../inc/customizer/styling.php:18
+msgid "Theme Styling"
+msgstr ""
+
+#: ../inc/customizer/styling.php:93
+msgid "Header Top Padding (Default: 30px)"
+msgstr ""
+
+#: ../inc/customizer/styling.php:102
+msgid "Header Bottom Padding (Default: 30px)"
+msgstr ""
+
+#: ../inc/customizer/styling.php:111
+msgid "Header Background Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:119
+msgid "Logo Text Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:126
+msgid "Menu Link Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:133
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:140
+msgid "Active Menu Link Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:147
+msgid "Sub-Menu Background"
+msgstr ""
+
+#: ../inc/customizer/styling.php:154
+msgid "Sub-Menu Link Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:161
+msgid "Sub-Menu Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:168
+msgid "Mobile Menu Border Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:175
+msgid "Footer Widgets Background"
+msgstr ""
+
+#: ../inc/customizer/styling.php:182
+msgid "Footer Widgets Text"
+msgstr ""
+
+#: ../inc/customizer/styling.php:189
+msgid "Footer Widgets Heading"
+msgstr ""
+
+#: ../inc/customizer/styling.php:196
+msgid "Footer Widgets Links"
+msgstr ""
+
+#: ../inc/customizer/styling.php:203
+msgid "Footer Widgets Links Hover"
+msgstr ""
+
+#: ../inc/customizer/styling.php:210
+msgid "Footer Widgets Borders"
+msgstr ""
+
+#: ../inc/customizer/styling.php:217
+msgid "Copyright Backgorund"
+msgstr ""
+
+#: ../inc/customizer/styling.php:224
+msgid "Copyright Top Border"
+msgstr ""
+
+#: ../inc/customizer/styling.php:231
+msgid "Copyright Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:238
+msgid "Copyright Link Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:245
+msgid "Heading Title Hover Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:252
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:259
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:266
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:273
+msgid "Sidebar Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:280
+msgid "Theme Button Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:287
+msgid "Theme Button Background"
+msgstr ""
+
+#: ../inc/customizer/styling.php:294
+msgid "Theme Button Hover Color"
+msgstr ""
+
+#: ../inc/customizer/styling.php:301
+msgid "Theme Button Hover Background"
+msgstr ""
+
+#: ../inc/excerpts.php:26
+msgid "continue reading"
+msgstr ""
+
+#: ../inc/meta/meta-features.php:10 ../inc/meta/meta-slides.php:10
+msgid "Post Options"
+msgstr ""
+
+#: ../inc/meta/meta-features.php:16
+msgid "URL"
+msgstr ""
+
+#: ../inc/meta/meta-features.php:17
+msgid "Enter a URL to link this feature to (optional)."
+msgstr ""
+
+#: ../inc/meta/meta-features.php:23 ../inc/meta/meta-slides.php:30
+msgid "Link Target"
+msgstr ""
+
+#: ../inc/meta/meta-features.php:24 ../inc/meta/meta-slides.php:31
+msgid "Select a target for the URL."
+msgstr ""
+
+#: ../inc/meta/meta-slides.php:16
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/meta/meta-slides.php:17
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../inc/meta/meta-slides.php:17
+msgid "Learn More"
+msgstr ""
+
+#: ../inc/meta/meta-slides.php:23
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/meta/meta-slides.php:24
+msgid "Enter a URL to link this slide to. Example: http://wpexplorer.com"
+msgstr ""
+
+#: ../search.php:20 ../search.php:35
+msgid "Search Results For"
+msgstr ""
+
+#: ../search.php:40
+msgid "No results found for that query."
+msgstr ""
+
+#: ../single-portfolio.php:53
+msgid "Similar Work"
+msgstr ""
+
+#: ../templates/home.php:68
+msgid "Recent Work"
+msgstr ""
+
+#: ../templates/home.php:85
+msgid "Browse all"
+msgstr ""
