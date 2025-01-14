@@ -196,17 +196,6 @@ class WPEX_Portafolio_Theme {
 		add_theme_support( 'automatic-feed-links' );
 		add_theme_support( 'custom-background' );
 		add_theme_support( 'post-thumbnails' );
-
-		// Dashboard feed
-		if ( ! defined( 'WPEX_DISABLE_THEME_DASHBOARD_FEEDS' ) ) {
-			require_once( WPEX_INCLUDES_DIR .'dashboard-feed.php' );
-		}
-		
-		// About page
-		if ( ! defined( 'WPEX_DISABLE_THEME_ABOUT_PAGE' ) ) {
-			require_once( WPEX_INCLUDES_DIR .'about.php' );
-		}
-
 	}
 
 	/**
