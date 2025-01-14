@@ -26,16 +26,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-// Theme info
-function wpex_get_theme_info() {
-	return array(
-		'name'      => 'Portafolio',
-		'dir'       => get_template_directory_uri() .'/inc/',
-		'url'       => 'http://www.wpexplorer.com/portafolio-wordpress-theme/',
-		'changelog' => 'https://wpexplorer-updates.com/changelog/portafolio/ ',
-	);
-}
-
 // Main theme class
 class WPEX_Portafolio_Theme {
 
